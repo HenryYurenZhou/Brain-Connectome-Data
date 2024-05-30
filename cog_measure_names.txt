@@ -1,0 +1,175 @@
+PMAT24_A_CR @ Fluid Intelligence (Penn Progressive Matrices)
+PMAT24_A_SI @ Fluid Intelligence (Penn Progressive Matrices)
+PMAT24_A_RTCR @ Fluid Intelligence (Penn Progressive Matrices)
+ReadEng_Unadj @ Instrument: Language/Reading Decoding (Oral Reading Recognition)
+ReadEng_AgeAdj @ Instrument: Language/Reading Decoding (Oral Reading Recognition)
+PicVocab_Unadj @ Language/Vocabulary Comprehension (Picture Vocabulary)
+PicVocab_AgeAdj @ Language/Vocabulary Comprehension (Picture Vocabulary)
+IWRD_TOT @ Instrument: Verbal Episodic Memory (Penn Word Memory Test)
+IWRD_RTC @ Instrument: Verbal Episodic Memory (Penn Word Memory Test)
+ProcSpeed_Unadj @ Processing Speed (Pattern Completion Processing Speed)
+ProcSpeed_AgeAdj @ Processing Speed (Pattern Completion Processing Speed)
+DDisc_SV_1mo_200 @ Delay Discounting
+DDisc_SV_6mo_200 @ Delay Discounting
+DDisc_SV_1yr_200 @ Delay Discounting
+DDisc_SV_3yr_200 @ Delay Discounting
+DDisc_SV_5yr_200 @ Delay Discounting
+DDisc_SV_10yr_200 @ Delay Discounting
+DDisc_SV_6mo_40K @ Delay Discounting
+DDisc_SV_1yr_40K @ Delay Discounting
+DDisc_SV_3yr_40K @ Delay Discounting
+DDisc_SV_5yr_40K @ Delay Discounting
+DDisc_SV_10yr_40K @ Delay Discounting
+DDisc_AUC_200 @ Delay Discounting
+DDisc_AUC_40K @ Delay Discounting
+VSPLOT_TC @ Instrument: Spatial Orientation (Variable Short Penn Line Orientation Test)
+VSPLOT_CRTE @ Instrument: Spatial Orientation (Variable Short Penn Line Orientation Test)
+VSPLOT_OFF @ Instrument: Spatial Orientation (Variable Short Penn Line Orientation Test)
+SCPT_TP @ Instrument: Sustained Attention (Short Penn Continuous Performance Test)
+SCPT_TN @ Instrument: Sustained Attention (Short Penn Continuous Performance Test)
+SCPT_FP @ Instrument: Sustained Attention (Short Penn Continuous Performance Test)
+SCPT_FN @ Instrument: Sustained Attention (Short Penn Continuous Performance Test)
+SCPT_TPRT @ Instrument: Sustained Attention (Short Penn Continuous Performance Test)
+SCPT_SEN @ Instrument: Sustained Attention (Short Penn Continuous Performance Test)
+SCPT_SPEC @ Instrument: Sustained Attention (Short Penn Continuous Performance Test)
+SCPT_LRNR @ Instrument: Sustained Attention (Short Penn Continuous Performance Test)
+ListSort_AgeAdj @ Working Memory (List Sorting)
+ListSort_Unadj @ Working Memory (List Sorting)
+PicSeq_AgeAdj @ Episodic Memory (Picture Sequence Memory) - C:Cognition
+PicSeq_Unadj @ Episodic Memory (Picture Sequence Memory) - C:Cognition
+SSAGA_Educ @ Education and Income
+SSAGA_Income @ Education and Income
+CardSort_Unadj @ Instrument: Executive Function/Cognitive Flexibility (Dimensional Change Card Sort)
+CardSort_AgeAdj @ Instrument: Executive Function/Cognitive Flexibility (Dimensional Change Card Sort)
+Flanker_Unadj @ Instrument: Executive Function/Inhibition (Flanker Task)
+Flanker_AgeAdj @ Instrument: Executive Function/Inhibition (Flanker Task)
+Dexterity_AgeAdj @ Instrument: Dexterity (9-hole Pegboard) - C: Motor
+Dexterity_Unadj @ Instrument: Dexterity (9-hole Pegboard) - C: Motor
+Endurance_Unadj @ Instrument: Endurance (2 minute walk test)
+Endurance_AgeAdj @ Instrument: Endurance (2 minute walk test)
+GaitSpeed_Comp @ Instrument: Locomotion (4-meter walk test)
+Strength_Unadj @ Instrument: Strength (Grip Strength Dynamometry)
+Strength_AgeAdj @ Instrument: Strength (Grip Strength Dynamometry)
+SSAGA_Alc_D4_Dp_Sx @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_D4_Ab_Dx @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_D4_Ab_Sx @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_D4_Dp_Dx @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_12_Drinks_Per_Day @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_12_Frq @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_12_Frq_5plus @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_12_Frq_Drk @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_12_Max_Drinks @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_Age_1st_Use @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_Hvy_Drinks_Per_Day @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_Hvy_Frq @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_Hvy_Frq_5plus @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_Hvy_Frq_Drk @ Instrument: Alcohol Use and Dependence
+SSAGA_Alc_Hvy_Max_Drinks @ Instrument: Alcohol Use and Dependence
+SSAGA_TB_Age_1st_Cig @ Instrument: Tobacco Use and Dependence
+SSAGA_TB_DSM_Difficulty_Quitting @ Instrument: Tobacco Use and Dependence
+SSAGA_TB_Max_Cigs @ Instrument: Tobacco Use and Dependence
+SSAGA_TB_Reg_CPD @ Instrument: Tobacco Use and Dependence
+SSAGA_TB_Yrs_Smoked @ Instrument: Tobacco Use and Dependence
+SSAGA_TB_Still_Smoking @ Instrument: Tobacco Use and Dependence
+Times_Used_Any_Tobacco_Today @ Instrument: Tobacco Use and Dependence
+Avg_Weekend_Any_Tobacco_7days @ Instrument: Tobacco Use and Dependence
+Total_Cigars_7days @ Instrument: Tobacco Use and Dependence
+Avg_Weekend_Cigars_7days @ Instrument: Tobacco Use and Dependence
+Num_Days_Used_Any_Tobacco_7days @ Instrument: Tobacco Use and Dependence
+SSAGA_Times_Used_Illicits @ Instrument: Illicit Drug Use
+SSAGA_Times_Used_Cocaine @ Instrument: Illicit Drug Use
+SSAGA_Times_Used_Hallucinogens @ Instrument: Illicit Drug Use
+SSAGA_Times_Used_Opiates @ Instrument: Illicit Drug Use
+SSAGA_Times_Used_Sedatives @ Instrument: Illicit Drug Use
+SSAGA_Times_Used_Stimulants @ Instrument: Illicit Drug Use
+SSAGA_Mj_Use @ Instrument: Marijuana Use and Dependence
+SSAGA_Mj_Ab_Dep @ Instrument: Marijuana Use and Dependence
+SSAGA_Mj_Age_1st_Use @ Instrument: Marijuana Use and Dependence
+SSAGA_Mj_Times_Used @ Instrument: Marijuana Use and Dependence
+ASR_Anxd_Raw @ lift function
+ASR_Anxd_Pct @ lift function
+ASR_Witd_Raw @ lift function
+ASR_Witd_Pct @ lift function
+ASR_Soma_Raw @ lift function
+ASR_Soma_Pct @ lift function
+ASR_Thot_Raw @ lift function
+ASR_Thot_Pct @ lift function
+ASR_Attn_Raw @ lift function
+ASR_Attn_Pct @ lift function
+ASR_Aggr_Raw @ lift function
+ASR_Aggr_Pct @ lift function
+ASR_Rule_Raw @ lift function
+ASR_Rule_Pct @ lift function
+ASR_Intr_Raw @ lift function
+ASR_Intr_Pct @ lift function
+ASR_Oth_Raw @ lift function
+ASR_Crit_Raw @ lift function
+ASR_Intn_Raw @ lift function
+ASR_Intn_T @ lift function
+ASR_Extn_Raw @ lift function
+ASR_Extn_T @ lift function
+ASR_TAO_Sum @ lift function
+ASR_Totp_Raw @ lift function
+ASR_Totp_T @ lift function
+DSM_Depr_Raw @ lift function
+DSM_Depr_Pct @ lift function
+DSM_Anxi_Raw @ lift function
+DSM_Anxi_Pct @ lift function
+DSM_Somp_Raw @ lift function
+DSM_Somp_Pct @ lift function
+DSM_Avoid_Raw @ lift function
+DSM_Avoid_Pct @ lift function
+DSM_Adh_Raw @ lift function
+DSM_Adh_Pct @ lift function
+DSM_Hype_Raw @ lift function
+DSM_Antis_Raw @ lift function
+DSM_Antis_Pct @ lift function
+SSAGA_ChildhoodConduct @ Restricted Instrument: Psychiatric History
+SSAGA_PanicDisorder @ Restricted Instrument: Psychiatric History
+SSAGA_Agoraphobia @ Restricted Instrument: Psychiatric History
+SSAGA_Depressive_Ep @ Restricted Instrument: Psychiatric History
+SSAGA_Depressive_Sx @ Restricted Instrument: Psychiatric History
+Noise_Comp @ Instrument: Audition (Words in Noise
+Odor_Unadj @ Instrument: Audition (Words in Noise
+Odor_AgeAdj @ Instrument: Audition (Words in Noise
+PainInterf_Tscore @ cog_measure[65,] = table1$PainIntens_RawScore Odor
+Taste_Unadj @ cog_measure[65,] = table1$PainIntens_RawScore Odor
+Taste_AgeAdj @ cog_measure[65,] = table1$PainIntens_RawScore Odor
+EVA_Num @ cog_measure[65,] = table1$PainIntens_RawScore Odor
+EVA_Denom @ cog_measure[65,] = table1$PainIntens_RawScore Odor
+Mars_Log_Score @ Instrument: Contrast Sensitivity (Mars Contrast Sensitivity)
+Mars_Errs @ Instrument: Contrast Sensitivity (Mars Contrast Sensitivity)
+Mars_Final @ Instrument: Contrast Sensitivity (Mars Contrast Sensitivity)
+ER40_CR @ Emotion recognition
+ER40_CRT @ Emotion recognition
+ER40ANG @ Emotion recognition
+ER40FEAR @ Emotion recognition
+ER40HAP @ Emotion recognition
+ER40NOE @ Emotion recognition
+ER40SAD @ Emotion recognition
+AngAffect_Unadj @ Instrument: Negative Affect
+AngHostil_Unadj @ Instrument: Negative Affect
+AngAggr_Unadj @ Instrument: Negative Affect
+FearAffect_Unadj @ Instrument: Negative Affect
+FearSomat_Unadj @ Instrument: Negative Affect
+Sadness_Unadj @ Instrument: Negative Affect
+PercStress_Unadj @ Instrument: Stress and Self Efficacy
+SelfEff_Unadj @ Instrument: Stress and Self Efficacy
+LifeSatisf_Unadj @ Psychological Well-being
+MeanPurp_Unadj @ Psychological Well-being
+PosAffect_Unadj @ Psychological Well-being
+Friendship_Unadj @ Social Relationships
+Loneliness_Unadj @ Social Relationships
+PercHostil_Unadj @ Social Relationships
+PercReject_Unadj @ Social Relationships
+EmotSupp_Unadj @ Social Relationships
+InstruSupp_Unadj @ Social Relationships
+NEOFAC_A @ Instrument: Five Factor Model (NEO-FFI)
+NEOFAC_O @ Instrument: Five Factor Model (NEO-FFI)
+NEOFAC_C @ Instrument: Five Factor Model (NEO-FFI)
+NEOFAC_N @ Instrument: Five Factor Model (NEO-FFI)
+NEOFAC_E @ Instrument: Five Factor Model (NEO-FFI)
+Height @ Health and Family History
+Weight @ Health and Family History
+BMI @ Health and Family History
+PSQI_Score @ Health and Family History
